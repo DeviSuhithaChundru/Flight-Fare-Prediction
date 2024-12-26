@@ -1,68 +1,67 @@
 <h1 align="center">Flight Fare Prediction</h1>
 Predicting flight fares using machine learning by analyzing features like airline, departure/arrival times, flight duration, source, and destination. The project involves exploratory data analysis and building models to forecast flight prices.
-Flight Fare Prediction
 
-Overview
+**Overview**
 
 This project aims to predict flight fares based on various parameters such as airline, source, destination, departure time, and other relevant features. By leveraging machine learning techniques, the model provides accurate fare predictions, helping users make informed decisions while booking flights.
 
-Table of Contents
+**Table of Contents**
 
-Introduction
+1.Introduction
 
-Features
+2.Features
 
-Technologies Used
+3.Technologies Used
 
-Dataset
+4.Dataset
 
-Installation
+5.Installation
 
-Usage
+6.Usage
 
-Model Training and Evaluation
+7.Model Training and Evaluation
 
-Results
+8.Results
 
-Contributing
+9.Contributing
 
-License
+10.License
 
-Introduction
+**Introduction**
 
 Flight fare prediction is a significant challenge in the aviation industry. This project addresses this problem by analyzing historical data and building a predictive model to forecast fares. It aims to simplify fare comparison and help users optimize their travel budgets.
 
-Features
+**Features**
 
-Exploratory Data Analysis (EDA) to understand trends and patterns.
+1.Exploratory Data Analysis (EDA) to understand trends and patterns.
 
-Feature engineering for optimal model performance.
+2.Feature engineering for optimal model performance.
 
-Machine learning models for accurate fare prediction.
+3.Machine learning models for accurate fare prediction.
 
-Visualization of key insights and model predictions.
+4.Visualization of key insights and model predictions.
 
-Technologies Used
+**Technologies Used**
 
-Programming Language: Python
+* Programming Language: Python
 
-Libraries:
+**Libraries:**
 
-pandas: Data manipulation and analysis
+* pandas: Data manipulation and analysis
 
-numpy: Numerical computations
+* numpy: Numerical computations
 
-matplotlib and seaborn: Data visualization
+* matplotlib and seaborn: Data visualization
 
-sklearn: Machine learning algorithms and utilities
+* sklearn: Machine learning algorithms and utilities
 
-prettytable: Displaying tabular data
+* prettytable: Displaying tabular data
 
-Dataset
+**Dataset**
 
 The dataset includes details such as:
 
-Airline
+* Airline
 
 Date of journey
 
