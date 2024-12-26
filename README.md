@@ -1,6 +1,7 @@
 <h1 align="center">Flight Fare Prediction</h1>
 Predicting flight fares using machine learning by analyzing features like airline, departure/arrival times, flight duration, source, and destination. The project involves exploratory data analysis and building models to forecast flight prices.
 
+
 **Overview**
 
 This project aims to predict flight fares based on various parameters such as airline, source, destination, departure time, and other relevant features. By leveraging machine learning techniques, the model provides accurate fare predictions, helping users make informed decisions while booking flights.
