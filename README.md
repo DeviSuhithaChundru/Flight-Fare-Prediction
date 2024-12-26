@@ -7,25 +7,25 @@ This project aims to predict flight fares based on various parameters such as ai
 
 **Table of Contents**
 
-1.Introduction
+1. Introduction
 
-2.Features
+2. Features
 
-3.Technologies Used
+3. Technologies Used
 
-4.Dataset
+4. Dataset
 
-5.Installation
+5. Installation
 
-6.Usage
+6. Usage
 
-7.Model Training and Evaluation
+7. Model Training and Evaluation
 
-8.Results
+8. Results
 
-9.Contributing
+9. Contributing
 
-10.License
+10. License
 
 **Introduction**
 
@@ -33,29 +33,29 @@ Flight fare prediction is a significant challenge in the aviation industry. This
 
 **Features**
 
-1.Exploratory Data Analysis (EDA) to understand trends and patterns.
+1. Exploratory Data Analysis (EDA) to understand trends and patterns.
 
-2.Feature engineering for optimal model performance.
+2. Feature engineering for optimal model performance.
 
-3.Machine learning models for accurate fare prediction.
+3. Machine learning models for accurate fare prediction.
 
-4.Visualization of key insights and model predictions.
+4. Visualization of key insights and model predictions.
 
 **Technologies Used**
 
-* Programming Language: Python
+* **Programming Language:** Python
 
 **Libraries:**
 
-* pandas: Data manipulation and analysis
+* **pandas:** Data manipulation and analysis
 
-* numpy: Numerical computations
+* **numpy:** Numerical computations
 
-* matplotlib and seaborn: Data visualization
+* **matplotlib and seaborn:** Data visualization
 
-* sklearn: Machine learning algorithms and utilities
+* **sklearn:** Machine learning algorithms and utilities
 
-* prettytable: Displaying tabular data
+* **prettytable:** Displaying tabular data
 
 **Dataset**
 
@@ -63,101 +63,78 @@ The dataset includes details such as:
 
 * Airline
 
-Date of journey
+* Date of journey
 
-Source and destination
+* Source and destination
 
-Duration of flight
+* Duration of flight
 
-Total stops
+* Total stops
 
-Fare prices (target variable)
+* Fare prices (target variable)
 
-Note:
+**Note:**
 
-The dataset should be in .xlsx format and placed in the same directory as the project files. Ensure the file path is correctly set in the code.
+The dataset should be in **.xlsx** format and placed in the same directory as the project files. Ensure the file path is correctly set in the code.
 
-Installation
+**Installation**
 
-Clone the repository:
+**1. Clone the repository:**
 
 git clone https://github.com/your-username/flight-fare-prediction.git
 
-Navigate to the project directory:
+**2. Navigate to the project directory:**
 
 cd flight-fare-prediction
 
-Install the required libraries:
+**3. Install the required libraries:**
 
 pip install -r requirements.txt
 
-Usage
+**Usage**
 
-Open the Jupyter Notebook:
+1. Open the Jupyter Notebook:
 
 jupyter notebook
 
-Load the dataset into the notebook.
+2. Load the dataset into the notebook.
 
-Run the cells sequentially to:
+3. Run the cells sequentially to:
 
-Preprocess data
+* Preprocess data
 
-Train the machine learning model
+* Train the machine learning model
 
-Evaluate performance
+* Evaluate performance
 
-View results and predictions.
+4. View results and predictions.
 
-Model Training and Evaluation
+**Model Training and Evaluation**
 
-Models used:
+**Models used:**
 
-Linear Regression
+* Linear Regression
 
-Decision Trees
+* Decision Trees
 
-Random Forest
+* Random Forest
 
-Metrics:
+**Metrics:**
 
-Mean Absolute Error (MAE)
+* Mean Absolute Error (MAE)
 
-Root Mean Square Error (RMSE)
+* Root Mean Square Error (RMSE)
 
-R-squared (R²)
+* R-squared (R²)
 
-Results
+**Results**
 
-Accuracy: The models achieved a high degree of accuracy in predicting flight fares.
+* **Accuracy:** The models achieved a high degree of accuracy in predicting flight fares.
 
-Visualizations: Key insights from the data are illustrated using plots and graphs.
+* **Visualizations:** Key insights from the data are illustrated using plots and graphs.
 
-Contributing
 
-Contributions are welcome! If you’d like to improve this project:
-
-Fork the repository.
-
-Create a new branch:
-
-git checkout -b feature-branch
-
-Make your changes and commit them:
-
-git commit -m "Add a new feature"
-
-Push to your branch:
-
-git push origin feature-branch
-
-Open a pull request.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Acknowledgments
+**Acknowledgments**
 
 Inspiration for this project comes from the growing need to make travel more affordable and accessible.
 
